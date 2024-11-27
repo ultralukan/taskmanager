@@ -16,10 +16,9 @@
 #### Страница входа
 ![alt text](public/image.png)
 #### Страница регистрации
-![alt text](image-1.png)
+![alt text](public/image-1.png)
 #### Всплывающее окно при успешной регистрации или ошибки
 ![alt text](public/image-2.png)
-![alt text](public/image-10.png)
 #### Страница cо списком задач
 ![alt text](public/image-3.png)
 #### Нажав на кнопку добавить, откроется модальное окно добавления
@@ -32,4 +31,3 @@
 ![alt text](public/image-8.png)
 #### Доступна фиильтрация по столбцу статусов и сортировка по всем столбцам
 ![alt text](public/image-9.png)
-![alt text](public/image.png)
